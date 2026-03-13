@@ -1,0 +1,22 @@
+# --- Dados ---
+# Ignora todas as pastas de dados (brutos, processados e melt)
+dados_dengue/
+data/
+*.csv
+
+# --- Ambiente Virtual ---
+# Ignora bibliotecas instaladas localmente
+venv/
+.venv/
+env/
+
+# --- Python ---
+# Arquivos de cache e logs que não devem ser versionados
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
