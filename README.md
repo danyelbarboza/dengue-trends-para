@@ -1,0 +1,1 @@
+Projeto para monitoramento e alerta precoce de dengue no estado do Pará, combinando dados oficiais com fontes abertas para reduzir latência na vigilância epidemiológica.
